@@ -2,7 +2,7 @@
 
 Linux sistemlerde **yetki yükseltme (Privilege Escalation)** risklerini hızlı ve güvenli şekilde analiz etmek için geliştirilmiş hafif bir denetim aracıdır.
 
-> 🎯 Amaç: Exploit çalıştırmak değil, potansiyel riskleri **tespit etmek ve raporlamak**.
+> 🎯 Amaç: Potansiyel riskleri **tespit etmek ve raporlamak**.
 
 ---
 
